@@ -1,5 +1,5 @@
 # Sales-Data-Analysis
-[I have also attached all month One CSV file and every month excel file]
+[I have also attached all month One CSV file and every month CSV file]
 
 In this project, i analyzed the sales data of XYZ Company for the year 2019 using my programming skills. The main goal of this project was to prepare the data for data mining and analysis. To achieve this, i needed to understand, gather, explore, and analyze the data. Initially, i gained a basic understanding of the data and its features. Afterward, i developed a Python program to merge the data from all months into a single CSV file. This Python program provided summary statistics, correlations of variables, and data analysis. Additionally, we used various data visualization techniques, such as bar graphs, pie charts, and histograms, to explore the data and make it more accessible with appropriate labels.
 
